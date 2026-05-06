@@ -1,7 +1,7 @@
-# Hi, I'm Federica 👋
+# 👋 Hi, I'm Federica
 
-* 🎨 Artist turned Data Scientist — bridging creativity and technology
-* 🤖 Currently training LLMs **[@DataAnnotation](https://www.dataannotation.tech/)**
-* 🎓 Studying MSc Data Science & AI **[@Newcastle University](https://www.ncl.ac.uk/)**
-* 🌱 Passionate about the intersection of art, data and machine learning
-* 📫 How to reach me: **[federicagaglianone@outlook.it](mailto:federicagaglianone@outlook.it)** or **[LinkedIn](https://www.linkedin.com/in/federica-gaglianone)**
+* 🎨 I started as an artist and ended up training AI — long story, great journey
+* 🤖 Currently contributing to LLM pipelines **[@DataAnnotation](https://www.dataannotation.tech/)** — prompt engineering, RLHF & safety evaluation
+* 🎓 Studying MSc Data Science & AI **[@Newcastle University](https://www.ncl.ac.uk/)** — because one degree was not enough
+* 🌆 Turin-based, globally curious
+* 📫 **[federicagaglianone@outlook.it](mailto:federicagaglianone@outlook.it)** · **[LinkedIn](https://www.linkedin.com/in/federica-gaglianone)**
