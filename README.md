@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Federica
 
-* 🎨 I started as an artist and ended up training AI — long story, great journey
-* 🤖 Currently contributing to LLM pipelines **[@DataAnnotation](https://www.dataannotation.tech/)** — prompt engineering, RLHF & safety evaluation
-* 🎓 Studying MSc Data Science & AI **[@Newcastle University](https://www.ncl.ac.uk/)** — because one degree was not enough
-* 🌆 Turin-based, globally curious
-* 📫 **[E-mail](mailto:federicagaglianone@outlook.it)** · **[LinkedIn](https://www.linkedin.com/in/federica-gaglianone)**
+I look at data the way I used to look at art —> trying to figure out what it's really trying to say. I currently train AI models, and I'm slowly moving toward satellites and climate data — the next thing I want to learn to read.
+
+- 🎨 Started as an artist, ended up training AI — long story, great journey
+- 🛰️ Into Earth observation & remote sensing — making atmospheric data legible, one pixel at a time
+- 🤖 Currently contributing to LLM pipelines **[@DataAnnotation](https://www.dataannotation.tech/)** — prompt engineering, RLHF & safety evaluation
+  
+- 🎓 MSc Data Science & AI **[@Newcastle University](https://www.ncl.ac.uk/)** — because one degree was clearly not enough
+- 🌆 Italian, but globally curious
+- 🌐 Portfolio: *coming soon*
+- 📫 **[Email](mailto:federicagaglianone@outlook.it)** · **[LinkedIn](https://www.linkedin.com/in/federica-gaglianone)**
